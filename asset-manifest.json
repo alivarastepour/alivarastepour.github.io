@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/alivarastepour.github.io/static/css/main.9daae9c8.chunk.css",
-    "main.js": "/alivarastepour.github.io/static/js/main.fad02fe2.chunk.js",
-    "main.js.map": "/alivarastepour.github.io/static/js/main.fad02fe2.chunk.js.map",
-    "runtime-main.js": "/alivarastepour.github.io/static/js/runtime-main.aea88ddc.js",
-    "runtime-main.js.map": "/alivarastepour.github.io/static/js/runtime-main.aea88ddc.js.map",
+    "main.css": "/alivarastepour.github.io/static/css/main.24165d2a.chunk.css",
+    "main.js": "/alivarastepour.github.io/static/js/main.cb43d4a5.chunk.js",
+    "main.js.map": "/alivarastepour.github.io/static/js/main.cb43d4a5.chunk.js.map",
+    "runtime-main.js": "/alivarastepour.github.io/static/js/runtime-main.06a6b3b9.js",
+    "runtime-main.js.map": "/alivarastepour.github.io/static/js/runtime-main.06a6b3b9.js.map",
     "static/js/2.d1fcc689.chunk.js": "/alivarastepour.github.io/static/js/2.d1fcc689.chunk.js",
     "static/js/2.d1fcc689.chunk.js.map": "/alivarastepour.github.io/static/js/2.d1fcc689.chunk.js.map",
     "static/css/3.8c7eeee2.chunk.css": "/alivarastepour.github.io/static/css/3.8c7eeee2.chunk.css",
@@ -13,9 +13,9 @@
     "static/css/4.552497e9.chunk.css": "/alivarastepour.github.io/static/css/4.552497e9.chunk.css",
     "static/js/4.f5349dcc.chunk.js": "/alivarastepour.github.io/static/js/4.f5349dcc.chunk.js",
     "static/js/4.f5349dcc.chunk.js.map": "/alivarastepour.github.io/static/js/4.f5349dcc.chunk.js.map",
-    "static/css/5.77f03546.chunk.css": "/alivarastepour.github.io/static/css/5.77f03546.chunk.css",
-    "static/js/5.63a0b82f.chunk.js": "/alivarastepour.github.io/static/js/5.63a0b82f.chunk.js",
-    "static/js/5.63a0b82f.chunk.js.map": "/alivarastepour.github.io/static/js/5.63a0b82f.chunk.js.map",
+    "static/css/5.3aa217d9.chunk.css": "/alivarastepour.github.io/static/css/5.3aa217d9.chunk.css",
+    "static/js/5.d591c213.chunk.js": "/alivarastepour.github.io/static/js/5.d591c213.chunk.js",
+    "static/js/5.d591c213.chunk.js.map": "/alivarastepour.github.io/static/js/5.d591c213.chunk.js.map",
     "static/css/6.1a9ec350.chunk.css": "/alivarastepour.github.io/static/css/6.1a9ec350.chunk.css",
     "static/js/6.3c3a2978.chunk.js": "/alivarastepour.github.io/static/js/6.3c3a2978.chunk.js",
     "static/js/6.3c3a2978.chunk.js.map": "/alivarastepour.github.io/static/js/6.3c3a2978.chunk.js.map",
@@ -25,17 +25,17 @@
     "index.html": "/alivarastepour.github.io/index.html",
     "static/css/3.8c7eeee2.chunk.css.map": "/alivarastepour.github.io/static/css/3.8c7eeee2.chunk.css.map",
     "static/css/4.552497e9.chunk.css.map": "/alivarastepour.github.io/static/css/4.552497e9.chunk.css.map",
-    "static/css/5.77f03546.chunk.css.map": "/alivarastepour.github.io/static/css/5.77f03546.chunk.css.map",
+    "static/css/5.3aa217d9.chunk.css.map": "/alivarastepour.github.io/static/css/5.3aa217d9.chunk.css.map",
     "static/css/6.1a9ec350.chunk.css.map": "/alivarastepour.github.io/static/css/6.1a9ec350.chunk.css.map",
     "static/css/7.731fa2b7.chunk.css.map": "/alivarastepour.github.io/static/css/7.731fa2b7.chunk.css.map",
-    "static/css/main.9daae9c8.chunk.css.map": "/alivarastepour.github.io/static/css/main.9daae9c8.chunk.css.map",
+    "static/css/main.24165d2a.chunk.css.map": "/alivarastepour.github.io/static/css/main.24165d2a.chunk.css.map",
     "static/js/2.d1fcc689.chunk.js.LICENSE.txt": "/alivarastepour.github.io/static/js/2.d1fcc689.chunk.js.LICENSE.txt",
     "static/media/styles.scss": "/alivarastepour.github.io/static/media/photo_2021-11-21_23-43-14.b9cb568c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.aea88ddc.js",
+    "static/js/runtime-main.06a6b3b9.js",
     "static/js/2.d1fcc689.chunk.js",
-    "static/css/main.9daae9c8.chunk.css",
-    "static/js/main.fad02fe2.chunk.js"
+    "static/css/main.24165d2a.chunk.css",
+    "static/js/main.cb43d4a5.chunk.js"
   ]
 }
