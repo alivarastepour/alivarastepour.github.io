@@ -3,11 +3,11 @@
     "main.css": "/alivarastepour.github.io/static/css/main.9daae9c8.chunk.css",
     "main.js": "/alivarastepour.github.io/static/js/main.42f492c2.chunk.js",
     "main.js.map": "/alivarastepour.github.io/static/js/main.42f492c2.chunk.js.map",
-    "runtime-main.js": "/alivarastepour.github.io/static/js/runtime-main.a31495fe.js",
-    "runtime-main.js.map": "/alivarastepour.github.io/static/js/runtime-main.a31495fe.js.map",
+    "runtime-main.js": "/alivarastepour.github.io/static/js/runtime-main.4fa62a75.js",
+    "runtime-main.js.map": "/alivarastepour.github.io/static/js/runtime-main.4fa62a75.js.map",
     "static/js/2.d1fcc689.chunk.js": "/alivarastepour.github.io/static/js/2.d1fcc689.chunk.js",
     "static/js/2.d1fcc689.chunk.js.map": "/alivarastepour.github.io/static/js/2.d1fcc689.chunk.js.map",
-    "static/css/3.eeb2d463.chunk.css": "/alivarastepour.github.io/static/css/3.eeb2d463.chunk.css",
+    "static/css/3.b0921c58.chunk.css": "/alivarastepour.github.io/static/css/3.b0921c58.chunk.css",
     "static/js/3.eedb1c0d.chunk.js": "/alivarastepour.github.io/static/js/3.eedb1c0d.chunk.js",
     "static/js/3.eedb1c0d.chunk.js.map": "/alivarastepour.github.io/static/js/3.eedb1c0d.chunk.js.map",
     "static/css/4.44ab48f4.chunk.css": "/alivarastepour.github.io/static/css/4.44ab48f4.chunk.css",
@@ -23,7 +23,7 @@
     "static/js/7.da311251.chunk.js": "/alivarastepour.github.io/static/js/7.da311251.chunk.js",
     "static/js/7.da311251.chunk.js.map": "/alivarastepour.github.io/static/js/7.da311251.chunk.js.map",
     "index.html": "/alivarastepour.github.io/index.html",
-    "static/css/3.eeb2d463.chunk.css.map": "/alivarastepour.github.io/static/css/3.eeb2d463.chunk.css.map",
+    "static/css/3.b0921c58.chunk.css.map": "/alivarastepour.github.io/static/css/3.b0921c58.chunk.css.map",
     "static/css/4.44ab48f4.chunk.css.map": "/alivarastepour.github.io/static/css/4.44ab48f4.chunk.css.map",
     "static/css/5.77f03546.chunk.css.map": "/alivarastepour.github.io/static/css/5.77f03546.chunk.css.map",
     "static/css/6.1a9ec350.chunk.css.map": "/alivarastepour.github.io/static/css/6.1a9ec350.chunk.css.map",
@@ -33,7 +33,7 @@
     "static/media/styles.scss": "/alivarastepour.github.io/static/media/photo_2021-11-21_23-43-14.b9cb568c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a31495fe.js",
+    "static/js/runtime-main.4fa62a75.js",
     "static/js/2.d1fcc689.chunk.js",
     "static/css/main.9daae9c8.chunk.css",
     "static/js/main.42f492c2.chunk.js"
